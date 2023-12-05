@@ -3,4 +3,8 @@
 * Current Progress:
 0
 
+* Shadcn-UI Install: 
+https://ui.shadcn.com/docs/installation/next
 
+* Dev commands:
+npm run dev
