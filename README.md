@@ -22,5 +22,6 @@
   `Shadcn (UI Library)`
   `zod (Form Validation)`
   `Clerk (Auth)`
-  `Planet Scale (Serverless MySQL Platform)`
+  `(REMOVED) Planet Scale (Serverless MySQL Platform)`
+  `CockroackDB (Serverless DB Platform)`
   `axios`
