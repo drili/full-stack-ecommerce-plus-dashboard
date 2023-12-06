@@ -26,6 +26,7 @@ export default function RootLayout({
                     <ToasterProvider />
                     <ModalProvider />
                     {children}
+
                 </body>
             </html>
         </ClerkProvider>
