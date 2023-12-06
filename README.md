@@ -8,6 +8,10 @@
 
 - **Dev commands:**
   `npm run dev`
+  Prisma:
+  `npx prisma init`
+  `npx prisma generate`
+  `npx prisma db push`
 
 - **Framework libraries and dependencies:**
   `React + Nextjs (13) + TypeScript`
@@ -18,3 +22,5 @@
   `Shadcn (UI Library)`
   `zod (Form Validation)`
   `Clerk (Auth)`
+  `Planet Scale (Serverless MySQL Platform)`
+  `axios`
