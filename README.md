@@ -23,5 +23,6 @@
   `zod (Form Validation)`
   `Clerk (Auth)`
   `(REMOVED) Planet Scale (Serverless MySQL Platform)`
-  `CockroackDB (Serverless DB Platform)`
+  `(REMOVED) CockroackDB (Serverless DB Platform)`
+  `MongoDB (Database Platform)`
   `axios`
