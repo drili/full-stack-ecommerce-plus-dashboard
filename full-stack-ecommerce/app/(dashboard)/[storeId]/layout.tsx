@@ -33,13 +33,11 @@ export default async function DashboardLayout({
         <>
             <Navbar />
 
-            <br />
-            <p>store.id: {store.id}</p>
-            <p>store.name: {store.name}</p>
-            <p>store.userId: {store.userId}</p>
-            <br />
-
             {children}
+            
+            {/* <p>store.id: {store.id}</p>
+            <p>store.name: {store.name}</p>
+            <p>store.userId: {store.userId}</p> */}
         </>
     )
 }
