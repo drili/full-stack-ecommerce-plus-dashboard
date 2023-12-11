@@ -26,3 +26,5 @@
   `(REMOVED) CockroackDB (Serverless DB Platform)`
   `MongoDB (Database Platform)`
   `axios`
+  `Cloudinary`
+  `TypeScript`
